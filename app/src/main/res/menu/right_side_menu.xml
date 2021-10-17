@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/notification"
+        android:title="Notification"
+        app:actionLayout="@layout/custom_notification"
+        app:showAsAction="always|withText"/>
+</menu>
+
+<!--https://stackoverflow.com/questions/43194243/notification-badge-on-action-item-android-->

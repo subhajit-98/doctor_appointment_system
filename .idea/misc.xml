@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/bottom_dialog_background.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/category_background.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/department_background.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/doctor_list_background.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/facebook_logo_bg.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/ic_twotone_person_outline_24.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/loader_basic.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/notification_number_background.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/show_timing_background.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/show_timing_background_inactive.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/slider_bullet.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/slider_bullet_active.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/drawable/text_field_round.xml" value="0.3828125" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/activity_base.xml" value="0.20572916666666666" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/activity_home.xml" value="0.32971014492753625" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/activity_intro.xml" value="0.3591485507246377" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/activity_main.xml" value="0.20572916666666666" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/activity_sign_up.xml" value="0.35507246376811596" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/activity_splash_screen.xml" value="0.3591485507246377" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/activity_user.xml" value="0.17831813576494426" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/app_bar.xml" value="0.35507246376811596" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/custom_notification.xml" value="0.32971014492753625" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/drawer_layout_head.xml" value="0.20572916666666666" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_category.xml" value="0.23052536231884058" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_choose_doctor.xml" value="0.25815217391304346" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_confirm_appointment.xml" value="0.30117753623188404" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_dash_board_doctor_details_bottom.xml" value="0.35190217391304346" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_date_select.xml" value="0.20572916666666666" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_doctor_schedule_bottom.xml" value="0.32653985507246375" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_history.xml" value="0.27898550724637683" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_intro_first_.xml" value="0.33967391304347827" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_intro_srcond.xml" value="0.33967391304347827" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_intro_third.xml" value="0.33967391304347827" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_logout.xml" value="0.2848731884057971" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_profile.xml" value="0.33061594202898553" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_show_notification.xml" value="0.20572916666666666" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_sign_in.xml" value="0.33967391304347827" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/fragment_sign_up.xml" value="0.3509963768115942" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/home_app_bar.xml" value="0.32971014492753625" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/home_mail_content.xml" value="0.32019927536231885" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/home_main_content.xml" value="0.20572916666666666" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/layout_show_doctor_list_home.xml" value="0.20572916666666666" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/layout_show_doctor_schedule.xml" value="0.32653985507246375" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/layout_show_doctor_schedule_time.xml" value="0.3115942028985507" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/layout_show_notification.xml" value="0.2848731884057971" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/main_content.xml" value="0.3509963768115942" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/show_department_gride.xml" value="0.20572916666666666" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/layout/show_doctor_schedule.xml" value="0.20572916666666666" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/ZWorkData/Android/java/Ejob/Project/App/DoctorAppointmentSystem/app/src/main/res/menu/right_side_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
